@@ -5,9 +5,10 @@ date: 2020-01-02 19:20:23 +0900
 category: sample
 ---
 # post-sample
-> Hello!
+> 샘플 포스트입니다. 
+>ㅇㅇㅇㅇ
 
 This is code
-```ruby
-print 'hello world'
+```Python
+print('hello world')
 ```
